@@ -1,0 +1,7 @@
+D:\.NET\hierarchical\hierarchical\bin\Debug\hierarchical.exe.config
+D:\.NET\hierarchical\hierarchical\bin\Debug\hierarchical.exe
+D:\.NET\hierarchical\hierarchical\bin\Debug\hierarchical.pdb
+D:\.NET\hierarchical\hierarchical\obj\Debug\hierarchical.csproj.AssemblyReference.cache
+D:\.NET\hierarchical\hierarchical\obj\Debug\hierarchical.csproj.CoreCompileInputs.cache
+D:\.NET\hierarchical\hierarchical\obj\Debug\hierarchical.exe
+D:\.NET\hierarchical\hierarchical\obj\Debug\hierarchical.pdb

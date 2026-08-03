@@ -1,0 +1,7 @@
+D:\.NET\MinusOperator\MinusOperator\bin\Debug\MinusOperator.exe.config
+D:\.NET\MinusOperator\MinusOperator\bin\Debug\MinusOperator.exe
+D:\.NET\MinusOperator\MinusOperator\bin\Debug\MinusOperator.pdb
+D:\.NET\MinusOperator\MinusOperator\obj\Debug\MinusOperator.csproj.AssemblyReference.cache
+D:\.NET\MinusOperator\MinusOperator\obj\Debug\MinusOperator.csproj.CoreCompileInputs.cache
+D:\.NET\MinusOperator\MinusOperator\obj\Debug\MinusOperator.exe
+D:\.NET\MinusOperator\MinusOperator\obj\Debug\MinusOperator.pdb
