@@ -1,0 +1,7 @@
+D:\.NET\DelegatesDynamicMethod\DelegatesDynamicMethod\bin\Debug\DelegatesDynamicMethod.exe.config
+D:\.NET\DelegatesDynamicMethod\DelegatesDynamicMethod\bin\Debug\DelegatesDynamicMethod.exe
+D:\.NET\DelegatesDynamicMethod\DelegatesDynamicMethod\bin\Debug\DelegatesDynamicMethod.pdb
+D:\.NET\DelegatesDynamicMethod\DelegatesDynamicMethod\obj\Debug\DelegatesDynamicMethod.csproj.AssemblyReference.cache
+D:\.NET\DelegatesDynamicMethod\DelegatesDynamicMethod\obj\Debug\DelegatesDynamicMethod.csproj.CoreCompileInputs.cache
+D:\.NET\DelegatesDynamicMethod\DelegatesDynamicMethod\obj\Debug\DelegatesDynamicMethod.exe
+D:\.NET\DelegatesDynamicMethod\DelegatesDynamicMethod\obj\Debug\DelegatesDynamicMethod.pdb

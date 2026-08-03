@@ -1,0 +1,7 @@
+D:\.NET\Calculation\Calculation\bin\Debug\Calculation.exe.config
+D:\.NET\Calculation\Calculation\bin\Debug\Calculation.exe
+D:\.NET\Calculation\Calculation\bin\Debug\Calculation.pdb
+D:\.NET\Calculation\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+D:\.NET\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+D:\.NET\Calculation\Calculation\obj\Debug\Calculation.exe
+D:\.NET\Calculation\Calculation\obj\Debug\Calculation.pdb

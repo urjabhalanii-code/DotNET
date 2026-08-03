@@ -1,0 +1,7 @@
+D:\.NET\DataBackup\DataBackup\bin\Debug\DataBackup.exe.config
+D:\.NET\DataBackup\DataBackup\bin\Debug\DataBackup.exe
+D:\.NET\DataBackup\DataBackup\bin\Debug\DataBackup.pdb
+D:\.NET\DataBackup\DataBackup\obj\Debug\DataBackup.csproj.AssemblyReference.cache
+D:\.NET\DataBackup\DataBackup\obj\Debug\DataBackup.csproj.CoreCompileInputs.cache
+D:\.NET\DataBackup\DataBackup\obj\Debug\DataBackup.exe
+D:\.NET\DataBackup\DataBackup\obj\Debug\DataBackup.pdb

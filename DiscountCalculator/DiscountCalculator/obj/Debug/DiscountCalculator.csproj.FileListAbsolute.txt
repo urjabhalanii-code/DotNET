@@ -1,0 +1,7 @@
+D:\.NET\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.exe.config
+D:\.NET\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.exe
+D:\.NET\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.pdb
+D:\.NET\DiscountCalculator\DiscountCalculator\obj\Debug\DiscountCalculator.csproj.AssemblyReference.cache
+D:\.NET\DiscountCalculator\DiscountCalculator\obj\Debug\DiscountCalculator.csproj.CoreCompileInputs.cache
+D:\.NET\DiscountCalculator\DiscountCalculator\obj\Debug\DiscountCalculator.exe
+D:\.NET\DiscountCalculator\DiscountCalculator\obj\Debug\DiscountCalculator.pdb

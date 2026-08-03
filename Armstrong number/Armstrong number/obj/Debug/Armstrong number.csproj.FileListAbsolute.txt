@@ -1,0 +1,7 @@
+D:\.NET\Armstrong number\Armstrong number\bin\Debug\Armstrong number.exe.config
+D:\.NET\Armstrong number\Armstrong number\bin\Debug\Armstrong number.exe
+D:\.NET\Armstrong number\Armstrong number\bin\Debug\Armstrong number.pdb
+D:\.NET\Armstrong number\Armstrong number\obj\Debug\Armstrong number.csproj.AssemblyReference.cache
+D:\.NET\Armstrong number\Armstrong number\obj\Debug\Armstrong number.csproj.CoreCompileInputs.cache
+D:\.NET\Armstrong number\Armstrong number\obj\Debug\Armstrong number.exe
+D:\.NET\Armstrong number\Armstrong number\obj\Debug\Armstrong number.pdb
