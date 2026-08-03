@@ -1,0 +1,7 @@
+D:\.NET\AbstrectClass\AbstrectClass\bin\Debug\AbstrectClass.exe.config
+D:\.NET\AbstrectClass\AbstrectClass\bin\Debug\AbstrectClass.exe
+D:\.NET\AbstrectClass\AbstrectClass\bin\Debug\AbstrectClass.pdb
+D:\.NET\AbstrectClass\AbstrectClass\obj\Debug\AbstrectClass.csproj.AssemblyReference.cache
+D:\.NET\AbstrectClass\AbstrectClass\obj\Debug\AbstrectClass.csproj.CoreCompileInputs.cache
+D:\.NET\AbstrectClass\AbstrectClass\obj\Debug\AbstrectClass.exe
+D:\.NET\AbstrectClass\AbstrectClass\obj\Debug\AbstrectClass.pdb

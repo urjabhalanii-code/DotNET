@@ -1,0 +1,7 @@
+D:\.NET\Anagram_string\Anagram_string\bin\Debug\Anagram_string.exe.config
+D:\.NET\Anagram_string\Anagram_string\bin\Debug\Anagram_string.exe
+D:\.NET\Anagram_string\Anagram_string\bin\Debug\Anagram_string.pdb
+D:\.NET\Anagram_string\Anagram_string\obj\Debug\Anagram_string.csproj.AssemblyReference.cache
+D:\.NET\Anagram_string\Anagram_string\obj\Debug\Anagram_string.csproj.CoreCompileInputs.cache
+D:\.NET\Anagram_string\Anagram_string\obj\Debug\Anagram_string.exe
+D:\.NET\Anagram_string\Anagram_string\obj\Debug\Anagram_string.pdb
