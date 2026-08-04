@@ -1,0 +1,7 @@
+D:\.NET\PlusOperator\PlusOperator\bin\Debug\PlusOperator.exe.config
+D:\.NET\PlusOperator\PlusOperator\bin\Debug\PlusOperator.exe
+D:\.NET\PlusOperator\PlusOperator\bin\Debug\PlusOperator.pdb
+D:\.NET\PlusOperator\PlusOperator\obj\Debug\PlusOperator.csproj.AssemblyReference.cache
+D:\.NET\PlusOperator\PlusOperator\obj\Debug\PlusOperator.csproj.CoreCompileInputs.cache
+D:\.NET\PlusOperator\PlusOperator\obj\Debug\PlusOperator.exe
+D:\.NET\PlusOperator\PlusOperator\obj\Debug\PlusOperator.pdb
